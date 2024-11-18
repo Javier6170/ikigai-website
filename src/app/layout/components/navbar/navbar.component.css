@@ -1,0 +1,5 @@
+.active-link {
+    color: #6b21a8; /* Cambia el color de tu preferencia */
+    font-weight: bold;
+    border-bottom: 2px solid #6b21a8; /* Puedes añadir un borde para destacar */
+  }
